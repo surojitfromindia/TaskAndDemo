@@ -3,6 +3,8 @@
  * you can see the output in the console
  */
 
+// to print some you use
+// console.log ("text")
 console.log("Jack and Jill");
 
 //run the file
